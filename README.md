@@ -114,3 +114,7 @@ To see the available command-line options:
 ```bash
 python rename_pdfs_by_title.py --help
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
